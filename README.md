@@ -11,4 +11,4 @@ The companion video tutorials can be found here:
 
 ### Credits
 
-To avoid dependency issues this project should contain everything it requires: TextMeshPro, the 2D packages, this [Tween package]("https://github.com/jeffreylanters/unity-tweens") and assets from [Retro Windows GUI]("https://comp3interactive.itch.io/retro-windows-gui") pack. The package cache has been deleted to reduce the project size so the first launch may take a while.
+To avoid dependency issues this project should contain everything it requires: TextMeshPro, the 2D packages, this [Tween package](https://github.com/jeffreylanters/unity-tweens) and assets from [Retro Windows GUI](https://comp3interactive.itch.io/retro-windows-gui) pack. The package cache has been deleted to reduce the project size so the first launch may take a while.
